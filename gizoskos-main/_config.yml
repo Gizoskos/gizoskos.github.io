@@ -10,6 +10,7 @@ markdown: kramdown
 statement: "All Rights Reserved"
 # bgtext              : "01"
 bgtext: "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+remote_theme: pRoJEct-NeGYa
 
 # 2. Collections
 collections:
