@@ -74,7 +74,7 @@ layouts_dir: src/_layouts
 data_dir: src/_data
 includes_dir: src/_includes
 sass:
-  sass_dir: src/_sass
+  load_paths: -src/_sass
 
 # User defined paths
 # When inserting images, could use "{{site.img}}/path/to/image.png" instead
