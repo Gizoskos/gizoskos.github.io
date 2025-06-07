@@ -81,21 +81,23 @@ permalink: /
    ...:--=+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%...::::......:-.       ==: ..    :     ...:...:::----===--:
 </pre></div>
 
-#  I am Gizem Gültoprak
+# I am Gizem Gültoprak
+
 I’m a **backend** & **AI developer**, and a proud **self-taught artist**.  
 Welcome to my sanctum.
 
-Don’t worry, the only thing I’m tracking is *progress*.  
-Your IP is safe… *for now* 😌
+Don’t worry, the only thing I’m tracking is _progress_.  
+Your IP is safe… _for now_ 😌
 
 [Github: https://github.com/Gizoskos](https://github.com/Gizoskos)
 
-#  Project Highlight
+# Project Highlight
+
 ## UAV Detection & Tracking
 
 - A real-time system using YOLOv8 + FastAPI + OpenCV to detect and track drones.
 - Built for aerial monitoring and surveillance applications.
-Want more cool stuff? Check out REPOS section.
+  Want more cool stuff? Check out REPOS section.
 
 ```python
 # Just a regular quick sort... or is it?
@@ -132,7 +134,7 @@ for i in arr:
 
 ## CV
 
-[My experience, neatly compiled — take a look.](/gizoskos-main/src/assets/Gizem_Gultoprak.pdf)
+[My experience, neatly compiled — take a look.]({{ site.baseurl }}/assets/Gizem_Gultoprak.pdf)
 
 ## More Samples
 
@@ -150,5 +152,7 @@ normal **bold** _italic_ ~~strikethrough~~ `keyword` [Link to Google](www.google
 
 - unordered list
   - sublist
+
+```
 
 ```
