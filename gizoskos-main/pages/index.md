@@ -134,7 +134,7 @@ for i in arr:
 
 ## CV
 
-[My experience, neatly compiled — take a look.]({{ site.baseurl }}/assets/Gizem_Gultoprak.pdf)
+[My experience, neatly compiled — take a look.]({{ site.baseurl }}/src/assets/Gizem_Gultoprak.pdf)
 
 ## More Samples
 
